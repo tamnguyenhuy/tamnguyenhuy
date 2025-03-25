@@ -1,6 +1,6 @@
 ### Hi, I'm Tam Nguyen - aka Davin Kalin = Mobile Engineer 🌱 
 
-- 🔭 I'm passionate about Mobile 
+- 🔭 I'm passionate about Mobile Development (Kotlin Multiplatform - iOS, Android Native)
 - 🥅 Favorite Quote: Happiness is a journey, not a destination.
 
 
