@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Life would be tragic if it weren't funny." — Stephen Hawking_
+- 📅 **Daily Quote:** _"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die." — Gilbert Chesterton_
 
 ---
 
