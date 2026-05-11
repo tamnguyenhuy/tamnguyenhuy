@@ -2,8 +2,8 @@ name: Update Quote Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Every day at midnight UTC
-  workflow_dispatch:    # Allow manual run
+    - cron: "0 0 * * *" # Every day at midnight UTC
+  workflow_dispatch: # Allow manual run
 
 jobs:
   update-quote:
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install requests
         run: pip install requests
@@ -33,4 +33,3 @@ jobs:
           git add README.md
           git diff --cached --quiet || git commit -m "chore: update daily quote"
           git push "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" HEAD:main
-
