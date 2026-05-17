@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies." — Emily Dickinson_
+- 📅 **Daily Quote:** _"If I cannot do great things. I can do small things in a great way." — Martin Luther King, Jr._
 
 ---
 
