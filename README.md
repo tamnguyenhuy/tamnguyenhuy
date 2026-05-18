@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"If I cannot do great things. I can do small things in a great way." — Martin Luther King, Jr._
+- 📅 **Daily Quote:** _"It's not whether you get knocked down, its whether you get back up." — Vince Lombardi_
 
 ---
 
