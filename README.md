@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It's not whether you get knocked down, its whether you get back up." — Vince Lombardi_
+- 📅 **Daily Quote:** _"The more perfect a person is on the outside, the more demons they have on the inside." — Sigmund Freud_
 
 ---
 
