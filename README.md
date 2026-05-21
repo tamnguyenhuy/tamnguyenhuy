@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Wheresoever you go, go with all your heart." — Confucius_
+- 📅 **Daily Quote:** _"The nearer a man comes to a calm mind, the closer he is to strength." — Marcus Aurelius_
 
 ---
 
