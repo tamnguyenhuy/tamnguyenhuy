@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The nearer a man comes to a calm mind, the closer he is to strength." — Marcus Aurelius_
+- 📅 **Daily Quote:** _"Time is a game played beautifully by children." — Heraclitus_
 
 ---
 
