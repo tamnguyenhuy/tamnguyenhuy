@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Time is a game played beautifully by children." — Heraclitus_
+- 📅 **Daily Quote:** _"Anger exceeding limits causes fear and excessive kindness eliminates respect." — Euripides_
 
 ---
 
