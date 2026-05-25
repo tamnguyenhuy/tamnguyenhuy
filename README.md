@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"He who knows, does not speak. He who speaks, does not know." — Lao Tzu_
+- 📅 **Daily Quote:** _"It's your life-but only if you make it so." — Eleanor Roosevelt_
 
 ---
 
