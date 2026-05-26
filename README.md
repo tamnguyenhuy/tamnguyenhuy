@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It's your life-but only if you make it so." — Eleanor Roosevelt_
+- 📅 **Daily Quote:** _"Thoughts become things. If you see it in your mind, you will hold it in your hand." — Bob Proctor_
 
 ---
 
