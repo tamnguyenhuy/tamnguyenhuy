@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Thoughts become things. If you see it in your mind, you will hold it in your hand." — Bob Proctor_
+- 📅 **Daily Quote:** _"Smile, breathe and go slowly." — Thich Nhat Hanh_
 
 ---
 
