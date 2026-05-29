@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"So we beat on, boats against the current, borne back ceaselessly into the past." — F. Scott Fitzgerald_
+- 📅 **Daily Quote:** _"It still holds true that man is most uniquely human when he turns obstacles into opportunities." — Eric Hoffer_
 
 ---
 
