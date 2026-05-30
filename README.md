@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It still holds true that man is most uniquely human when he turns obstacles into opportunities." — Eric Hoffer_
+- 📅 **Daily Quote:** _"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them." — Epictetus_
 
 ---
 
