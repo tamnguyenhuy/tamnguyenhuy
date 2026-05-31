@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them." — Epictetus_
+- 📅 **Daily Quote:** _"Don't be afraid to give up the good to go for the great." — John D. Rockefeller_
 
 ---
 
