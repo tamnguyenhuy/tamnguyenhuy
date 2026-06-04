@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"You can have everything in life you want if you will just help enough other people get what they want." — Zig Ziglar_
+- 📅 **Daily Quote:** _"All human wisdom is contained in these two words - Wait and Hope" — Alexandre Dumas_
 
 ---
 
