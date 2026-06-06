@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want." — Tony Robbins_
+- 📅 **Daily Quote:** _"Trust your instincts: my first reaction is almost invariably the right one." — Estee Lauder_
 
 ---
 
