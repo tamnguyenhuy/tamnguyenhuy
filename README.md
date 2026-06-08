@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It always seems impossible until it's done." — Nelson Mandela_
+- 📅 **Daily Quote:** _"Success is about creating value." — Candice Carpenter_
 
 ---
 
