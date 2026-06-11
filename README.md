@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe." — Nikola Tesla_
+- 📅 **Daily Quote:** _"Few things are more deceptive than memories." — Carlos Ruiz Zafon_
 
 ---
 
