@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Few things are more deceptive than memories." — Carlos Ruiz Zafon_
+- 📅 **Daily Quote:** _"Relax. Nothing is under control." — Adi Da Samraj_
 
 ---
 
