@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Not all those who wander are lost." — J.R.R. Tolkien_
+- 📅 **Daily Quote:** _"Either get busy living or get busy dying." — Stephen King_
 
 ---
 
