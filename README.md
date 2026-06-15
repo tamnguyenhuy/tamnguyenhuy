@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Either get busy living or get busy dying." — Stephen King_
+- 📅 **Daily Quote:** _"We shape clay into a pot, but it is the emptiness inside that holds whatever we want." — Lao Tzu_
 
 ---
 
