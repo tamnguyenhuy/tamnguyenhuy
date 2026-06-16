@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"We shape clay into a pot, but it is the emptiness inside that holds whatever we want." — Lao Tzu_
+- 📅 **Daily Quote:** _"There is nothing more frightful than ignorance in action." — Johann Wolfgang von Goethe_
 
 ---
 
