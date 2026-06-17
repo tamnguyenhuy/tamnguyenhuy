@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"There is nothing more frightful than ignorance in action." — Johann Wolfgang von Goethe_
+- 📅 **Daily Quote:** _"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases." — Sathya Sai Baba_
 
 ---
 
