@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Judgments prevent us from seeing the good that lies beyond appearances." — Wayne Dyer_
+- 📅 **Daily Quote:** _"A good character is the best tombstone. Carve your name on hearts, not on marble." — Charles Spurgeon_
 
 ---
 
