@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will." — Epictetus_
+- 📅 **Daily Quote:** _"There is a big difference between being centered and being self-centered." — Lolly Daskal_
 
 ---
 
