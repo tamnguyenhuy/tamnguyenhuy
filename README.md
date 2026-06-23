@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"There is a big difference between being centered and being self-centered." — Lolly Daskal_
+- 📅 **Daily Quote:** _"Patience is not the ability to wait but the ability to keep a good attitude while waiting." — Joyce Meyer_
 
 ---
 
