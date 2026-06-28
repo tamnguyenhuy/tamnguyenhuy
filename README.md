@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Act as if what you do makes a difference. It does." — William James_
+- 📅 **Daily Quote:** _"It isn't what you do, but how you do it." — John Wooden_
 
 ---
 
