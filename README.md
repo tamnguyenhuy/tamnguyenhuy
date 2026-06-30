@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"You cannot teach a crab to walk straight." — Aristophanes_
+- 📅 **Daily Quote:** _"The biggest challenge after success is shutting up about it." — Criss Jami_
 
 ---
 
