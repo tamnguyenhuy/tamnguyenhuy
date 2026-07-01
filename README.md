@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The biggest challenge after success is shutting up about it." — Criss Jami_
+- 📅 **Daily Quote:** _"A hopeless man is a very desperate and dangerous man, almost a dead man." — Robert F. Kennedy_
 
 ---
 
