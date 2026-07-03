@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Wheels of justice grind slow but grind fine." — Sun Tzu_
+- 📅 **Daily Quote:** _"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." — Stephen Hawking_
 
 ---
 
