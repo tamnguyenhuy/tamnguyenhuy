@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." — Stephen Hawking_
+- 📅 **Daily Quote:** _"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter." — Celestine Chua_
 
 ---
 
