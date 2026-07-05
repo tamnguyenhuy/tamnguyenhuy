@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter." — Celestine Chua_
+- 📅 **Daily Quote:** _"Eighty percent of success is showing up." — Woody Allen_
 
 ---
 
