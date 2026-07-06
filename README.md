@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Eighty percent of success is showing up." — Woody Allen_
+- 📅 **Daily Quote:** _"Kind words can be short and easy to speak, but their echoes are truly endless." — Mother Teresa_
 
 ---
 
