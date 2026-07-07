@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Kind words can be short and easy to speak, but their echoes are truly endless." — Mother Teresa_
+- 📅 **Daily Quote:** _"I am thankful to all who said no to me. It is because of them that I'm doing it myself." — Albert Einstein_
 
 ---
 
