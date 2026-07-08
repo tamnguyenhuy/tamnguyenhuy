@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"I am thankful to all who said no to me. It is because of them that I'm doing it myself." — Albert Einstein_
+- 📅 **Daily Quote:** _"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted." — Robert Collier_
 
 ---
 
