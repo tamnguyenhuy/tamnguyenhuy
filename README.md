@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"There are people who have money and people who are rich." — Coco Chanel_
+- 📅 **Daily Quote:** _"Action is the foundational key to all success." — Pablo Picasso_
 
 ---
 
