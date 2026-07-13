@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Life is like riding a bicycle. To keep your balance you must keep moving." — Albert Einstein_
+- 📅 **Daily Quote:** _"Faults are yours to fix, not to curse." — Colin Powell_
 
 ---
 
