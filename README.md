@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Faults are yours to fix, not to curse." — Colin Powell_
+- 📅 **Daily Quote:** _"The decisions of our past are the architects of our present." — Dan Brown_
 
 ---
 
