@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"As you think, so shall you become." — Bruce Lee_
+- 📅 **Daily Quote:** _"Always focus on the front windshield and not the rear view mirror." — Colin Powell_
 
 ---
 
