@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen." — Wayne Dyer_
+- 📅 **Daily Quote:** _"If you've made a mistake, it's better just to laugh at it." — Zen Proverb_
 
 ---
 
