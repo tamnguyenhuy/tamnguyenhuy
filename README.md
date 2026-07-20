@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It is literally true that you can succeed best and quickest by helping others succeed." — Napoleon Hill_
+- 📅 **Daily Quote:** _"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously." — Naval Ravikant_
 
 ---
 
