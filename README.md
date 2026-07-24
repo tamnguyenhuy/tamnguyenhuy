@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"We don't stop going to school when we graduate." — Carol Burnett_
+- 📅 **Daily Quote:** _"Even if you're sure you can win, be careful that you can live with what you lose." — Gary Keller_
 
 ---
 
