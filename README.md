@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The time is always right to do what is right." — Martin Luther King, Jr._
+- 📅 **Daily Quote:** _"Life has the name of life, but in reality it is death." — Heraclitus_
 
 ---
 
