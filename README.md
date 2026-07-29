@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Life has the name of life, but in reality it is death." — Heraclitus_
+- 📅 **Daily Quote:** _"The secret of life isn't what happens to you, but what you do with what happens to you." — Norman Vincent Peale_
 
 ---
 
