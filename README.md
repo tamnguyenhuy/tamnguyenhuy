@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The secret of life isn't what happens to you, but what you do with what happens to you." — Norman Vincent Peale_
+- 📅 **Daily Quote:** _"The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts_
 
 ---
 
