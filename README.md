@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts_
+- 📅 **Daily Quote:** _"Arise, slay thy enemies, enjoy a prosperous kingdom." — Bhagavad Gita_
 
 ---
 
