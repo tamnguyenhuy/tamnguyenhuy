@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." — Gary Keller_
+- 📅 **Daily Quote:** _"Do Something. If it works, do more of it. If it doesn't, do something else." — Franklin D. Roosevelt_
 
 ---
 
