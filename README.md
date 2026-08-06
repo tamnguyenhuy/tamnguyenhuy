@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Only those who do nothing at all make no mistakes." — Unknown_
+- 📅 **Daily Quote:** _"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long." — Elon Musk_
 
 ---
 
