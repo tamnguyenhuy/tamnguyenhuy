@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"You don't need a weatherman to know which way the wind blows." — Bob Dylan_
+- 📅 **Daily Quote:** _"If you want more luck, take more chances." — Brian Tracy_
 
 ---
 
