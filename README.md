@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Only when the tide goes out do you discover who's been swimming naked." — Warren Buffett_
+- 📅 **Daily Quote:** _"That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln_
 
 ---
 
