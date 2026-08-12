@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln_
+- 📅 **Daily Quote:** _"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush." — Rumi_
 
 ---
 
