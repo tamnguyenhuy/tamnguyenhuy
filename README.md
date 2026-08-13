@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush." — Rumi_
+- 📅 **Daily Quote:** _"The most important thing in communication is to hear what isn't being said." — Peter Drucker_
 
 ---
 
