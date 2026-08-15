@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Never fear quarrels, but seek hazardous adventures." — Alexandre Dumas_
+- 📅 **Daily Quote:** _"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others." — Dalai Lama_
 
 ---
 
