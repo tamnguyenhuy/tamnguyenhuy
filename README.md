@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The way to get started is to quit talking and begin doing." — Walt Disney_
+- 📅 **Daily Quote:** _"She who loves roses must be patient and not cry out when she is pierced by thorns." — Kenji Miyazawa_
 
 ---
 
