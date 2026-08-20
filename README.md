@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Muddy water is best cleared by leaving it alone." — Alan Watts_
+- 📅 **Daily Quote:** _"If life were predictable it would cease to be life, and be without flavor." — Eleanor Roosevelt_
 
 ---
 
