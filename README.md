@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"If life were predictable it would cease to be life, and be without flavor." — Eleanor Roosevelt_
+- 📅 **Daily Quote:** _"Awaken. Take heed, do not squander your life." — Dogen_
 
 ---
 
