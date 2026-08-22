@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Awaken. Take heed, do not squander your life." — Dogen_
+- 📅 **Daily Quote:** _"You can live a whole life time never being awake." — Dan Millman_
 
 ---
 
