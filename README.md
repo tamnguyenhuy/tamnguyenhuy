@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Catch, then, O catch the transient hour; Improve each moment as it flies!" — St. Jerome_
+- 📅 **Daily Quote:** _"Let the beauty of what you love be what you do." — Rumi_
 
 ---
 
