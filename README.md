@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." — Zen Proverb_
+- 📅 **Daily Quote:** _"Never do things others can do and will do if there are things others cannot do or will not do." — Amelia Earhart_
 
 ---
 
