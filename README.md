@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Never do things others can do and will do if there are things others cannot do or will not do." — Amelia Earhart_
+- 📅 **Daily Quote:** _"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present." — Joan Rivers_
 
 ---
 
