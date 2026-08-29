@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"No man is more cheated than the selfish man." — Henry Ward Beecher_
+- 📅 **Daily Quote:** _"The happiest people in the world are those who feel absolutely terrific about themselves." — Brian Tracy_
 
 ---
 
