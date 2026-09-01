@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The wise speak only of what they know." — J.R.R. Tolkien_
+- 📅 **Daily Quote:** _"The people who are most successful are those who are doing what they love." — Warren Buffett_
 
 ---
 
