@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"To achieve, you need thought. You have to know what you are doing and that's real power." — Ayn Rand_
+- 📅 **Daily Quote:** _"Never buy a thing you do not want, because it is cheap, it will be dear to you." — Thomas Jefferson_
 
 ---
 
