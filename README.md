@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Public opinion is the worst of all opinions." — Nicolas Chamfort_
+- 📅 **Daily Quote:** _"Life is a process. We are a process. The universe is a process." — Anne Wilson Schaef_
 
 ---
 
