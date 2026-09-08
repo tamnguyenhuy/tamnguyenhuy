@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Life is a process. We are a process. The universe is a process." — Anne Wilson Schaef_
+- 📅 **Daily Quote:** _"If we will be quiet and ready enough, we shall find compensation in every disappointment." — Henry David Thoreau_
 
 ---
 
