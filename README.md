@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Adventure is not outside man; it is within." — George Eliot_
+- 📅 **Daily Quote:** _"Know your gifts and share them." — Les Brown_
 
 ---
 
