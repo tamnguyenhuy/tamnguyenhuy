@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The eyes of others our prisons; their thoughts our cages." — Virginia Woolf_
+- 📅 **Daily Quote:** _"Empty yourself of everything - let the mind become still." — Lao Tzu_
 
 ---
 
