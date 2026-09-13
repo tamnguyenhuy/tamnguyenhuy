@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Empty yourself of everything - let the mind become still." — Lao Tzu_
+- 📅 **Daily Quote:** _"Every hour of every day is an unspeakably perfect miracle." — Walt Whitman_
 
 ---
 
