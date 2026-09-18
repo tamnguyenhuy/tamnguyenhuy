@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Growth is in a series of mistakes. That's the only way you learn." — Steve Harvey_
+- 📅 **Daily Quote:** _"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." — Thomas Edison_
 
 ---
 
