@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The more you know, the more you know you don't know." — Aristotle_
+- 📅 **Daily Quote:** _"Over time, loneliness gets inside you and doesn't go away." — Carlos Ruiz Zafon_
 
 ---
 
