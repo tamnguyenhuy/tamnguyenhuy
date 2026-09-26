@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Over time, loneliness gets inside you and doesn't go away." — Carlos Ruiz Zafon_
+- 📅 **Daily Quote:** _"You may be one person in this world, but to one person you may mean the world." — Unknown_
 
 ---
 
