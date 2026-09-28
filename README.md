@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Become the kind of leader that people would follow voluntarily, even if you had no title or position." — Brian Tracy_
+- 📅 **Daily Quote:** _"Rewards and punishment is the lowest form of education." — Zhuangzi_
 
 ---
 
