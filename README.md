@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"You have to make time, even for something as universal as staring at the stars." — W.P. Kinsella_
+- 📅 **Daily Quote:** _"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." — Alfred Adler_
 
 ---
 
