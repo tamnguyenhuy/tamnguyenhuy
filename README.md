@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Always keep your eyes open. Keep watching. Because whatever you see can inspire you." — Grace Coddington_
+- 📅 **Daily Quote:** _"Life is a question and how we live it is our answer." — Gary Keller_
 
 ---
 
