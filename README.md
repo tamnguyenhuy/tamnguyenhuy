@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Life is a question and how we live it is our answer." — Gary Keller_
+- 📅 **Daily Quote:** _"Life has more imagination than we carry in our dreams." — Christopher Columbus_
 
 ---
 
