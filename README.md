@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Genius is patience." — Isaac Newton_
+- 📅 **Daily Quote:** _"The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso_
 
 ---
 
