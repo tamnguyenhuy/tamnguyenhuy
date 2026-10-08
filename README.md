@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Inspire yourself to be great. Being good isn't good enough." — Gurbaksh Chahal_
+- 📅 **Daily Quote:** _"Give more than you think you can, trusting that you are richer than you think." — Jon Kabat-Zinn_
 
 ---
 
