@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Give more than you think you can, trusting that you are richer than you think." — Jon Kabat-Zinn_
+- 📅 **Daily Quote:** _"You can do two things at once, but you can't focus effectively on two things at once." — Gary Keller_
 
 ---
 
