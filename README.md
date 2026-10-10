@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"You can do two things at once, but you can't focus effectively on two things at once." — Gary Keller_
+- 📅 **Daily Quote:** _"A life without a cause is a life without effect." — Paulo Coelho_
 
 ---
 
