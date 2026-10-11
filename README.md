@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"A life without a cause is a life without effect." — Paulo Coelho_
+- 📅 **Daily Quote:** _"The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac_
 
 ---
 
