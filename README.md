@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac_
+- 📅 **Daily Quote:** _"You are what you do, not what you say you'll do." — Carl Jung_
 
 ---
 
