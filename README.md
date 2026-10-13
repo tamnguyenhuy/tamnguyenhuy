@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"You are what you do, not what you say you'll do." — Carl Jung_
+- 📅 **Daily Quote:** _"The constant assertion of belief is an indication of fear." — Jiddu Krishnamurti_
 
 ---
 
