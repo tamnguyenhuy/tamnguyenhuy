@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"At the end of the day, let there be no excuses, no explanations, no regrets." — Steve Maraboli_
+- 📅 **Daily Quote:** _"However difficult life may seem, there is always something you can do and succeed at." — Stephen Hawking_
 
 ---
 
