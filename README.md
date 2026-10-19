@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It is far easier to start something than it is to finish it." — Amelia Earhart_
+- 📅 **Daily Quote:** _"Life is ours to be spent, not to be saved." — D. H. Lawrence_
 
 ---
 
