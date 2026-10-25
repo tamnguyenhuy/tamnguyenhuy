@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The greatest miracle is to be alive." — Thich Nhat Hanh_
+- 📅 **Daily Quote:** _"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." — D. H. Lawrence_
 
 ---
 
