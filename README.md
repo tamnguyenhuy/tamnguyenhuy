@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." — D. H. Lawrence_
+- 📅 **Daily Quote:** _"When you are totally at peace with yourself, nothing can shake you." — Deepam Chaterjee_
 
 ---
 
