@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"When you are totally at peace with yourself, nothing can shake you." — Deepam Chaterjee_
+- 📅 **Daily Quote:** _"The harder you work, the harder it is to surrender." — Vince Lombardi_
 
 ---
 
