@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The harder you work, the harder it is to surrender." — Vince Lombardi_
+- 📅 **Daily Quote:** _"He will win who knows when to fight and when not to fight." — Sun Tzu_
 
 ---
 
