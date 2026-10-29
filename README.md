@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"He will win who knows when to fight and when not to fight." — Sun Tzu_
+- 📅 **Daily Quote:** _"Decide upon your major definite purpose in life and then organize all your activities around it." — Brian Tracy_
 
 ---
 
