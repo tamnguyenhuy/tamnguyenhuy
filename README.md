@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." — Zig Ziglar_
+- 📅 **Daily Quote:** _"It doesn't matter how much you want. What really matters is how much you want it." — Ralph Marston_
 
 ---
 
