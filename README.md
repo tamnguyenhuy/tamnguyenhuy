@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It doesn't matter how much you want. What really matters is how much you want it." — Ralph Marston_
+- 📅 **Daily Quote:** _"As mortals, we're ruled by conditions, not by ourselves." — Bodhidharma_
 
 ---
 
