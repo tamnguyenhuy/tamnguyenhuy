@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"As mortals, we're ruled by conditions, not by ourselves." — Bodhidharma_
+- 📅 **Daily Quote:** _"My guiding principle is this: Guilt is never to be doubted." — Franz Kafka_
 
 ---
 
