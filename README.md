@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"My guiding principle is this: Guilt is never to be doubted." — Franz Kafka_
+- 📅 **Daily Quote:** _"In three words I can sum up everything I've learned about life: it goes on." — Robert Frost_
 
 ---
 
