@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." — Amelia Earhart_
+- 📅 **Daily Quote:** _"He suffers more than necessary, who suffers before it is necessary." — Seneca_
 
 ---
 
