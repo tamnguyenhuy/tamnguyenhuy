@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Good things aren't supposed to just fall into your lap." — Audrey Hepburn_
+- 📅 **Daily Quote:** _"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." — Amelia Earhart_
 
 ---
 
