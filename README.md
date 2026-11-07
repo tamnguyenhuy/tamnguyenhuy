@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"He suffers more than necessary, who suffers before it is necessary." — Seneca_
+- 📅 **Daily Quote:** _"Only the educated are free." — Epictetus_
 
 ---
 
