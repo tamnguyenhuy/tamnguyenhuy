@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It is truth that liberates, not your effort to be free." — Jiddu Krishnamurti_
+- 📅 **Daily Quote:** _"Wake up and smile! Wake up and be grateful!" — Steve Harvey_
 
 ---
 
