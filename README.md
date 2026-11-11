@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Wake up and smile! Wake up and be grateful!" — Steve Harvey_
+- 📅 **Daily Quote:** _"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." — Eleanor Roosevelt_
 
 ---
 
