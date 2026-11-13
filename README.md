@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Stop acting so small. You are the universe in ecstatic motion." — Rumi_
+- 📅 **Daily Quote:** _"The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson_
 
 ---
 
