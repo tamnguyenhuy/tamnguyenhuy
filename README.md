@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Poverty and hardship are created by false thinking." — Bodhidharma_
+- 📅 **Daily Quote:** _"Growing up is losing some illusions, in order to acquire others." — Virginia Woolf_
 
 ---
 
