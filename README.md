@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Your work is to discover your work and then, with all your heart, to give yourself to it." — Buddha_
+- 📅 **Daily Quote:** _"The only place where success comes before work is in the dictionary." — Vidal Sassoon_
 
 ---
 
