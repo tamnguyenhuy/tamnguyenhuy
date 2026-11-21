@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Everyone must choose one of two pains: The pain of discipline or the pain of regret." — Jim Rohn_
+- 📅 **Daily Quote:** _"Plants grow weak without wind." — Maxime Lagace_
 
 ---
 
