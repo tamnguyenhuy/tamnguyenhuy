@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Plants grow weak without wind." — Maxime Lagace_
+- 📅 **Daily Quote:** _"You cannot always control what goes on outside. But you can always control what goes on inside." — Wayne Dyer_
 
 ---
 
