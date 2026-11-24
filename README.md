@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Children are our greatest natural resource." — Herbert Hoover_
+- 📅 **Daily Quote:** _"Failure is the key to success; each mistake teaches us something." — Morihei Ueshiba_
 
 ---
 
