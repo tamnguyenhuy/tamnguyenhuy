@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Failure is the key to success; each mistake teaches us something." — Morihei Ueshiba_
+- 📅 **Daily Quote:** _"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult." — Seneca_
 
 ---
 
