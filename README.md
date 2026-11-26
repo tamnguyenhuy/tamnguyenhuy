@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult." — Seneca_
+- 📅 **Daily Quote:** _"A Quitter never wins - and - a Winner never quits." — Napoleon Hill_
 
 ---
 
