@@ -4,7 +4,7 @@
 
 - 🔭 Mostly experienced in **Android** but develop for both platforms (iOS and Android) using **Kotlin Multiplatform**.
 - 🥅 **Favorite Quote:** _Happiness is a journey, not a destination._
-- 📅 **Daily Quote:** _"Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant_
+- 📅 **Daily Quote:** _"It is hard to fail, but it is worse never to have tried to succeed." — Theodore Roosevelt_
 
 ---
 
